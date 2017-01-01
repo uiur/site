@@ -1,0 +1,7 @@
+title = "@uiureo"
+baseurl = "http://uiureo.com/"
+languageCode = "ja-jp"
+canonifyURLs = true
+
+[params]
+  dateform = "Monday, Jan 2, 2006"
